@@ -1,0 +1,6 @@
+{
+  "name": "Local Music Player",
+  "description": "An Android-only local music player app that scans and displays the local music library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
